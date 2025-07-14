@@ -5,7 +5,7 @@ import "./App.css";
 function App() {
   return (
     <div className="app">
-      <h1>A/B Test Split Timing Demo</h1>
+      <h1>Experiment exposure timing</h1>
       <SideBySideScenarios />
     </div>
   );
